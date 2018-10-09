@@ -15,9 +15,4 @@ public class PodPrivateTool{
 	public func Test(){
 		print("loremipsumdolorsitamet")
 	}
-	
-	public func Test2(){
-		print("loremipsumdolorsitamet2")
-
-	}
 }
